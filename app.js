@@ -11,6 +11,13 @@
 //   </div>
 // );
 
+// var Cheezits = () => (
+//   <Cheezits />
+// );
+// var Niuroumian = () => (
+//   <Niuroumian />
+// );
+
 var GroceryList = () => (
   <div>
     <li>Cheezits </li>
